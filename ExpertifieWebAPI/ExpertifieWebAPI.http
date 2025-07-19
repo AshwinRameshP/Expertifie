@@ -1,0 +1,6 @@
+@ExpertifieWebAPI_HostAddress = http://localhost:5210
+
+GET {{ExpertifieWebAPI_HostAddress}}/order/
+Accept: application/json
+
+###
